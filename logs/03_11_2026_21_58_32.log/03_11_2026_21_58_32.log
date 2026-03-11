@@ -1,0 +1,6 @@
+[ 2026-03-11 22:00:34,151 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2026-03-11 22:00:34,203 ] 107 dagshub - INFO - Accessing as Nimisha1518
+[ 2026-03-11 22:00:35,451 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/Nimisha1518/networksecurity "HTTP/1.1 200 OK"
+[ 2026-03-11 22:00:36,537 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2026-03-11 22:00:36,569 ] 107 dagshub - INFO - Initialized MLflow to track repo "Nimisha1518/networksecurity"
+[ 2026-03-11 22:00:36,604 ] 107 dagshub - INFO - Repository Nimisha1518/networksecurity initialized!
