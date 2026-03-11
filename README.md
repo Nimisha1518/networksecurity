@@ -12,7 +12,7 @@ ECR_REPOSITORY_NAME = networkssecurity
 
 
 Docker Setup In EC2 commands to be Executed
-#optinal
+#optional
 
 sudo apt-get update -y
 
